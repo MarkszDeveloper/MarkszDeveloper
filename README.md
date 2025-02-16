@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/thegoodlifefrance.com/wp-content/uploads/2021/03/Literary-tour-of-France.jpg?w=800&ssl=1)]
+[![MasterHead](https://unsplash.com/pt-br/fotografias/brinquedo-do-pinguim-preto-e-branco-wX2L8L-fGeA)]
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marco0706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco0706" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marco0706/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marco0706" height="30" width="40" /></a>
 <a href="https://discord.gg/SpectroViral#4582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SpectroViral#4582" height="30" width="40" /></a>
 </p>
 
